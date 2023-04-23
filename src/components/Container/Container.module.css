@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    min-height: 100vh; /* aula 14 */
+    background-color: #191919;
+    color: #fff;
+    padding-bottom: 1.5rem; /* aula 14 */
+    text-align: center;
+    padding-inline: 1.5rem; /* aula 14 */
+    overflow: hidden; /* aula 14 */
+}
