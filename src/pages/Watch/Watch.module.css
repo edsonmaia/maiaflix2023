@@ -2,3 +2,11 @@
     padding-top: 84px; /* 68px + 16px */
     
 }
+
+/* extra 01 responsividade */
+@media (max-width: 480px) {
+    iframe {
+        width: 100%;
+        height: 100%;
+    }
+}
