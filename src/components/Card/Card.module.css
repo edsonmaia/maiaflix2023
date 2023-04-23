@@ -37,3 +37,10 @@
     cursor: pointer;
     background-color: #000000;
 }
+
+/* extra 01 responsividade */
+@media (max-width: 480px) {
+    .capa {
+        width: 100%;
+    }
+}
