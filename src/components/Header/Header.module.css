@@ -23,3 +23,23 @@
     padding-inline: 1rem;
     font-size: 1.125rem; /* 18px = 1.125rem; */
 }
+
+/* responsividade extra 01 */
+@media (max-width: 480px) {
+    .header span {
+        font-size: 1.5rem;
+    }
+    .header a {
+        font-size: 0.95rem;
+        padding-inline: 0.5rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .header span {
+        font-size: 1.5rem;
+    }
+    .header a {
+        font-size: 0.75rem;
+    }
+}
