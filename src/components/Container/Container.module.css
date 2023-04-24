@@ -8,3 +8,10 @@
     padding-inline: 1.5rem; /* aula 14 */
     overflow: hidden; /* aula 14 */
 }
+
+/* extra 02 responsividade */
+@media (max-width: 1024px) {
+    .container {
+        padding-inline: 2.5rem;
+    }
+}
